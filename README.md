@@ -31,6 +31,34 @@
 ## 钻井仪表页<br>
 ![Alt text](https://github.com/tiantongxue1216/screenShot/blob/master/picture/3.jpg)<br>
 
+# 规则引擎截图
+
+## 规则总览
+![Alt text](https://github.com/tiantongxue1216/screenShot/blob/master/picture/rule1.PNG)
+
+## 新增规则
+![Alt text](https://github.com/tiantongxue1216/screenShot/blob/master/picture/rule1-1.PNG)
+
+## 规则模板和新建规则模板
+和规则总览以及新增规则页面类似
+
+## 报警列表
+![Alt text](https://github.com/tiantongxue1216/screenShot/blob/master/picture/rule4.PNG)
+
+## 转发列表
+和报警列表类似
+
+## 现有数据源
+![Alt text](https://github.com/tiantongxue1216/screenShot/blob/master/picture/rule5.PNG)
+
+## 新增数据源
+![Alt text](https://github.com/tiantongxue1216/screenShot/blob/master/picture/rule5-1.PNG)
+
+## 数据源类型
+![Alt text](https://github.com/tiantongxue1216/screenShot/blob/master/picture/rule7.PNG)
+
+## 新增数据源类型
+![Alt text](https://github.com/tiantongxue1216/screenShot/blob/master/picture/rule7-1.PNG)
 
 
 
